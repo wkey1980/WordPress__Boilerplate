@@ -1,2 +1,3 @@
-# WordPress__Boilerplate
-# WordPress__Boilerplate
+# WordPress-Boilerplate
+
+## WordPress Boilerplate custom starter theme.
